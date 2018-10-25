@@ -13,3 +13,9 @@ There is no recorded video.
 I was invited by Jennifer Davis, co-author of _[Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](http://shop.oreilly.com/product/0636920039846.do)_, to give a talk at DevOpsDays Silicon Valley. I had mentioned working on a talk about how my employer (my team, specifically) had come up with one of its first SLOs (Service Level Objectives) and she expressed an interest in hearing it at the conference.
 
 The talk is called "SLO Creation And You: Or, How We Learned To Stop Worrying And Love The Queue Length." Slides can be found at [on Speakerdeck](https://speakerdeck.com/thedoh/slos-and-you-or-how-we-learned-to-stop-worrying-and-love-the-queue-length). recorded video is forthcoming. Here is a [link to my speaker page for the conference](https://www.devopsdays.org/events/2018-silicon-valley/program/lisa-seelye/)
+
+## October 24, 2018 ExploreTech, Toronto
+
+I was invited back by one of the organizers to give the SLO talk I gave in Silicon Valley back in May. The material is largely the same as DevOpsDays back in May, but with edits for clarity. Slides up at [speakerdeck](https://speakerdeck.com/thedoh/slo-creation-and-you-or-how-we-learned-to-stop-worrying-and-love-the-queue-length)
+
+[event page](https://www.meetup.com/ExploreTech-Toronto/events/255232706/)
