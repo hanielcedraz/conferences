@@ -14,8 +14,11 @@ I was invited by Jennifer Davis, co-author of _[Effective DevOps: Building a Cul
 
 The talk is called "SLO Creation And You: Or, How We Learned To Stop Worrying And Love The Queue Length." Slides can be found at [on Speakerdeck](https://speakerdeck.com/thedoh/slos-and-you-or-how-we-learned-to-stop-worrying-and-love-the-queue-length). recorded video is forthcoming. Here is a [link to my speaker page for the conference](https://www.devopsdays.org/events/2018-silicon-valley/program/lisa-seelye/)
 
+[A recording of the talk](dod18video) is available on YouTube.com. (Kindly ignore the "floating head" style video; I wasn't aware it would turn out like that beforehand.)
+
 ## October 24, 2018 ExploreTech, Toronto
 
 I was invited back by one of the organizers to give the SLO talk I gave in Silicon Valley back in May. The material is largely the same as DevOpsDays back in May, but with edits for clarity. Slides up at [speakerdeck](https://speakerdeck.com/thedoh/slo-creation-and-you-or-how-we-learned-to-stop-worrying-and-love-the-queue-length)
 
 [event page](https://www.meetup.com/ExploreTech-Toronto/events/255232706/)
+[dod18video](https://www.youtube.com/watch?v=MB0u2-c-2zs)
