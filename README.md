@@ -29,7 +29,7 @@ The aim of the talk is to encourage release engineers and software engineers ali
 
 All code for the talk is present in [lisa/lisa19-containers][lisa19-gitrepo], including the "automated manual build script." For a more in depth discussion of the files, please refer to [that repository][lisa19-gitrepo].
 
-Slides for the talk can be found on [Speakerdeck][lisa19-slides]. Any video recording will be linked when and if it becomes available.
+Slides for the talk can be found on [Speakerdeck][lisa19-slides]. [Video recording of the talk is available][lisa19-video] from the LISA19 website.
 
 ### Image Credits
 
@@ -82,3 +82,4 @@ These are the image credits:
 [lisa19-gitrepo]: https://github.com/lisa/lisa19-containers
 [lisa19-slides]: https://speakerdeck.com/thedoh/multi-arch-container-images-why-bother-and-how-to
 [lisa19-usenixpage]: https://www.usenix.org/conference/lisa19
+[lisa19-video]: https://www.usenix.org/conference/lisa19/presentation/seelye
