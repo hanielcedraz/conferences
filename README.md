@@ -29,7 +29,7 @@ The aim of the talk is to encourage release engineers and software engineers ali
 
 All code for the talk is present in [lisa/lisa19-containers][lisa19-gitrepo], including the "automated manual build script." For a more in depth discussion of the files, please refer to [that repository][lisa19-gitrepo].
 
-Slides for the talk can be found on [Speakerdeck][lisa19-slides]. [Video recording of the talk is available][lisa19-video].
+Slides for the talk can be found on [Speakerdeck][lisa19-slides]. [Video recording of the talk is available][lisa19-video] from the LISA19 website.
 
 ### Image Credits
 
